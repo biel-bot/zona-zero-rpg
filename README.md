@@ -17,9 +17,9 @@ O jogador assume o papel de um sobrevivente (`Soldado` ou `Médico`) explorando 
 - **Mecânica Autoral:** Sistema de **ataque crítico** (chance aleatória de causar dano dobrado durante o combate).
 
 ## Divisão Inicial de Papéis
-- **POO (Java):** Charles
+- **POO (Java):** Airton
 - **Banco de Dados:** Estevão
-- **Git / Qualidade:** Airton
+- **Git / Qualidade:** Charles
 *(Haverá rotação de papéis após o Checkpoint 2 conforme regras do projeto).*
 
 ## Estrutura do Projeto
